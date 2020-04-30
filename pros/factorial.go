@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func factorial(fact int) int {
-	if fact <= 0 {
+	if fact <= 1 {
 		return 1
 	}
 
