@@ -13,4 +13,5 @@ func factorial(fact int) int {
 func main() {
 	result := factorial(4)
 	fmt.Println(result)
+	//example: 4 = 4 * 3 * 2 * 1 -> 24
 }
